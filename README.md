@@ -3,10 +3,11 @@ Scroll To Top
 
 Este plugin crea un boton para ir al inicio de la pagina
 
-Uso :
+How to use:
 
-1- Cargar jQuery
+1- Load jQuery plugin before
 
-2- Inicializar el plugins $("body").Up();
+2- Initialize this plugin
+````$("body").Up();
 
-DEMO: http://scrolltop.hol.es
+Demo: http://andysantana.github.io/scrolltotop.js/
