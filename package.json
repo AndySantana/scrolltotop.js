@@ -1,0 +1,30 @@
+{
+  "name": "scrolltotop",
+  "version": "0.0.1",
+  "description": "This plugin we can create a button in the footer to climb the header",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndySantana/scrolltotop.js.git"
+  },
+  "keywords": [
+    "plugin",
+    "Scroll",
+    "scrolltotop"
+  ],
+  "author": "Andy Santana <Andysantana0106@gmail.com> ",
+  "contributors": [
+    "Joel A. Jaime <joel.alexander.jaime@gmail.com> (http://jblandino.net/)"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndySantana/scrolltotop.js/issues"
+  },
+  "homepage": "https://AndySantana.github.io/scrolltotop.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "load-grunt-tasks": "^0.6.0"
+  }
+}
